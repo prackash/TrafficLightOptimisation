@@ -17,3 +17,11 @@ Additional Notes:
 Consider the highways leading outside the city as node with in degree and out degree as 1. 
 Allow manual override of weights and light timers.
 ML can be used to predict weights for future events like a match in a stadium, christmas, school timings etc.
+
+
+
+Problems:
+
+Data needs to be sourced for each city
+Traffic data at first can be sourced from google maps but later can be retrieved from the cameras in the traffic light 
+Need to enable a way for emergency vehicles to inform that it is in emergency mode

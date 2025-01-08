@@ -25,3 +25,7 @@ Problems:
 Data needs to be sourced for each city
 Traffic data at first can be sourced from google maps but later can be retrieved from the cameras in the traffic light 
 Need to enable a way for emergency vehicles to inform that it is in emergency mode
+
+
+Update:
+No publicly available traffic signal data nor data based on roads
